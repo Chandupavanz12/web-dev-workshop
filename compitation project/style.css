@@ -4,3 +4,8 @@ img{
     margin-bottom:20px;
     border:solid #4cAF50;
 }
+h3{
+    text-align: center;
+    background-color: chartreuse;
+    text-decoration-color: aliceblue;
+}
